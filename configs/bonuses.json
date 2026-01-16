@@ -1,0 +1,31 @@
+{
+  "daily_bonus": {
+    "base_amount": 100,
+    "streak_multiplier": 0.1,
+    "level_multiplier": 0.05,
+    "max_streak": 30
+  },
+  "achievements": [
+    {
+      "id": "first_business",
+      "name": "Первый бизнес",
+      "description": "Купить первый бизнес",
+      "reward": 500,
+      "icon": "🏪"
+    },
+    {
+      "id": "stock_investor",
+      "name": "Инвестор",
+      "description": "Купить первую акцию",
+      "reward": 300,
+      "icon": "📈"
+    },
+    {
+      "id": "millionaire",
+      "name": "Миллионер",
+      "description": "Достичь баланса $1,000,000",
+      "reward": 10000,
+      "icon": "💰"
+    }
+  ]
+}
