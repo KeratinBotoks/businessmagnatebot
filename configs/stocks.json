@@ -1,0 +1,74 @@
+{
+  "stocks": [
+    {
+      "symbol": "MAGN",
+      "name": "Магнат Индастриз",
+      "base_price": 100,
+      "volatility": 0.15,
+      "description": "Корпорация с диверсифицированным бизнесом"
+    },
+    {
+      "symbol": "TECH",
+      "name": "ТехноКорп",
+      "base_price": 85,
+      "volatility": 0.25,
+      "description": "Технологический гигант"
+    },
+    {
+      "symbol": "ENERGY",
+      "name": "ЭнергоПром",
+      "base_price": 120,
+      "volatility": 0.12,
+      "description": "Энергетическая компания"
+    },
+    {
+      "symbol": "FIN",
+      "name": "ФинГруп",
+      "base_price": 95,
+      "volatility": 0.18,
+      "description": "Финансовый конгломерат"
+    },
+    {
+      "symbol": "AGRO",
+      "name": "АгроХолдинг",
+      "base_price": 70,
+      "volatility": 0.10,
+      "description": "Сельскохозяйственный холдинг"
+    },
+    {
+      "symbol": "BUILD",
+      "name": "СтройИнвест",
+      "base_price": 80,
+      "volatility": 0.20,
+      "description": "Строительная компания"
+    },
+    {
+      "symbol": "TRANS",
+      "name": "ТрансЛогист",
+      "base_price": 90,
+      "volatility": 0.16,
+      "description": "Логистическая компания"
+    },
+    {
+      "symbol": "RETAIL",
+      "name": "РитейлГруп",
+      "base_price": 75,
+      "volatility": 0.14,
+      "description": "Сеть розничной торговли"
+    },
+    {
+      "symbol": "MEDIA",
+      "name": "МедиаХолдинг",
+      "base_price": 65,
+      "volatility": 0.22,
+      "description": "Медиа и развлечения"
+    },
+    {
+      "symbol": "BIO",
+      "name": "БиоТех",
+      "base_price": 110,
+      "volatility": 0.30,
+      "description": "Биотехнологическая компания"
+    }
+  ]
+}
